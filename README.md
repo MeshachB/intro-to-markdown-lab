@@ -92,19 +92,19 @@ Creating files directly from the terminal is a fundamental skill for developers 
 
 ---
 
-# Step 1 Navigate to your desired Folder.
+## Step 1 Navigate to your desired Folder.
 
 *Before creating a file, use the `cd` command to change directories*.
 
 ```bash
 cd path/to/your/folder
 
-***Example:***
+***Example***
 cd Desktop/projects
 
 *Use ls (macOS/Linux) or dir (Windows) to view contents of the current folder*.
 
-## Step 2: Create a New File
+### Step 2: Create a New File
 (mac)
 touch (filename).txt
 
@@ -120,9 +120,4 @@ dir  *windows*
 
 *After creating the file, use the ls (macOS/Linux) or dir (Windows) command to verify the file exists*:
 
-***Congrats! You’ve now created a file using the terminal — like a true command line pro.***
-
-vbnet
-Copy
-Edit
-
+***Congrats! You’ve now created a file using the terminal — like a true command line pro***.
